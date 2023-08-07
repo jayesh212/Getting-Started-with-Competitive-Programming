@@ -2,6 +2,7 @@
 ### Course URL : [Getting Started with Competitive Programming](https://onlinecourses.nptel.ac.in/noc23_cs103/course)  
 > [!NOTE]
 >  Please use only after trying the problems on your own :upside_down_face:  
+
 CheckList :  
 - [x] Week 1  
 - [ ] Week 2  
