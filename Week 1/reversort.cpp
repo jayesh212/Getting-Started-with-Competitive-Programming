@@ -38,7 +38,7 @@ int findMinIndex(vector<int> &arr,int start){
 int reversort(vector<int> &arr){
     int ub = arr.size() - 1;
     int cost = 0;
-    if(ub<=0)return 1;
+    if(ub<=0)return 0;
     int j;
     for(int i=0;i<ub;i++){
         //find minimum index
